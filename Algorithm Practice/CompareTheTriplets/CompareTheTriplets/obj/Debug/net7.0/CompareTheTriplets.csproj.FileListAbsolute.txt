@@ -1,0 +1,15 @@
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/bin/Debug/net7.0/CompareTheTriplets
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/bin/Debug/net7.0/CompareTheTriplets.deps.json
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/bin/Debug/net7.0/CompareTheTriplets.runtimeconfig.json
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/bin/Debug/net7.0/CompareTheTriplets.dll
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/bin/Debug/net7.0/CompareTheTriplets.pdb
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.csproj.AssemblyReference.cache
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.GeneratedMSBuildEditorConfig.editorconfig
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.AssemblyInfoInputs.cache
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.AssemblyInfo.cs
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.csproj.CoreCompileInputs.cache
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.dll
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/refint/CompareTheTriplets.dll
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.pdb
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/CompareTheTriplets.genruntimeconfig.cache
+/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/CompareTheTriplets/CompareTheTriplets/obj/Debug/net7.0/ref/CompareTheTriplets.dll

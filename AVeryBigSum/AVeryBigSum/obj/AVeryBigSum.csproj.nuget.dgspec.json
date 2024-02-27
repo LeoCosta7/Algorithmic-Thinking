@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj": {}
+    "/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj": {}
   },
   "projects": {
-    "/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj": {
+    "/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj",
+        "projectUniqueName": "/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj",
         "projectName": "AVeryBigSum",
-        "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj",
+        "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/AVeryBigSum.csproj",
         "packagesPath": "/home/l001011/.nuget/packages/",
-        "outputPath": "/home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/obj/",
+        "outputPath": "/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/l001011/.nuget/NuGet/NuGet.Config"

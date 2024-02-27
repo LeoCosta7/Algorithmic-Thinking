@@ -13,3 +13,18 @@
 /home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.pdb
 /home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.genruntimeconfig.cache
 /home/l001011/Documentos/Algorithmic-Thinking/Algorithm Practice/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/ref/AVeryBigSum.dll
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/bin/Debug/net7.0/AVeryBigSum
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/bin/Debug/net7.0/AVeryBigSum.deps.json
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/bin/Debug/net7.0/AVeryBigSum.runtimeconfig.json
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/bin/Debug/net7.0/AVeryBigSum.dll
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/bin/Debug/net7.0/AVeryBigSum.pdb
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.csproj.AssemblyReference.cache
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.AssemblyInfoInputs.cache
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.AssemblyInfo.cs
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.csproj.CoreCompileInputs.cache
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.dll
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/refint/AVeryBigSum.dll
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.pdb
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/AVeryBigSum.genruntimeconfig.cache
+/home/l001011/Documentos/Algorithmic-Thinking/AVeryBigSum/AVeryBigSum/obj/Debug/net7.0/ref/AVeryBigSum.dll

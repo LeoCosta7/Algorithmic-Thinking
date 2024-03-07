@@ -13,8 +13,9 @@ public sealed class Category : BaseEntity
 
     public Category(int id, string name)
     {
-        Id = id;
+        DomainExceptionValidation.ValidateId(id);
         DomainExceptionValidation.ValidateName(name);
+        //Id = id;
     }
 
     public void Update(string name)

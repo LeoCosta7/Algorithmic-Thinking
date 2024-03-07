@@ -10,14 +10,14 @@ public class DomainExceptionValidation : Exception
         List<string> errors = new List<string>();
         
         List<string> invalidConditional = validation
-            .Where(x => x.Key(obj))                                                   //Where é usado para filtrar os elementos de uma sequência com base em uma condição específica
-            .Select(x => x.Value).ToList();                                                      //Select é usado para projetar (transformar) os elementos de uma sequência em um novo formato.
+            .Where(x => x.Key(obj))                                                   
+            .Select(x => x.Value).ToList();                                                      
         
         if (invalidConditional.Any())
         {
             string errorMessage = string.Join(Environment.NewLine, invalidConditional);
             
-            errors.AddRange(invalidConditional);                                                                             /*é frequentemente utilizado para adicionar vários elementos de uma vez, economizando assim chamadas repetitivas ao método Add para cada elemento individual.*/
+            errors.AddRange(invalidConditional);                                                                             
             
             throw new DomainExceptionValidation(errorMessage);
         }
@@ -34,6 +34,8 @@ public class DomainExceptionValidation : Exception
     public static List<string> ValidateStock(int stock) => When(stock, stockValidations);
 
     public static List<string> ValidateImage(string image) => When(image, imageValidations);
+
+    public static List<string> ValidateId(int id) => When(id, idValidations);
     
     
     private static Dictionary<Func<string, bool>, string> nameValidations = new Dictionary<Func<string, bool>, string>
@@ -61,5 +63,10 @@ public class DomainExceptionValidation : Exception
     private static Dictionary<Func<string,bool>, string> imageValidations = new Dictionary<Func<string, bool>, string>()
     {
         {value => value.Length > 250, $"Invalid image size. Maximum 250 characters."},
+    };
+
+    private static Dictionary<Func<int, bool>, string> idValidations = new Dictionary<Func<int, bool>, string>
+    {
+        {value => value < 0, $"Invalid id value."}
     };
 }

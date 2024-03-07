@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ruoyUy/kLjOQtWrYIkYnTrWnH8Mi6UrrUSuI7vygJlymop+a/pDoDiSHp/inFjT3VehVW7hRLuNTFxBARCAu/w==",
+  "dgSpecHash": "liRee4wDxjY0NZoKfLSlcm8upzc5ztOLaUMXAFjEGpO7XwsBhSSWwSbthz+v6gDA1LeUVIdSpv+txoqcKZs1eA==",
   "success": true,
-  "projectFilePath": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Domain.Tests/CleanArchMvc.Domain.Tests.csproj",
+  "projectFilePath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Domain.Tests/CleanArchMvc.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "/home/l001011/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/l001011/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",

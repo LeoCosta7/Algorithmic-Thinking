@@ -6,7 +6,7 @@ namespace CleanArchMvc.Domain.Tests;
 public class UnitTest1
 {
     [Fact(DisplayName = "Create Category With valid Parameters")]
-    public void CreateCategory_WithValidParameters_ResultObjectValidState() //Começo_Meio_Fim
+    public void CreateCategory_WithValidParameters_ResultObjectValidState() 
     {
         Action action = () => new Category(1, "Category Name");
         action.Should()

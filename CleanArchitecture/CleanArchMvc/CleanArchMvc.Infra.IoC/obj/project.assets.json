@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
+      "projectUniqueName": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
       "projectName": "CleanArchMvc.Infra.IoC",
-      "projectPath": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
+      "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
       "packagesPath": "/home/l001011/.nuget/packages/",
-      "outputPath": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Infra.IoC/obj/",
+      "outputPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.IoC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/l001011/.nuget/NuGet/NuGet.Config"
@@ -89,14 +89,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj": {
-              "projectPath": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj"
+            "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj": {
+              "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj"
             },
-            "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
-              "projectPath": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+            "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+              "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
             },
-            "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
-              "projectPath": "/home/l001011/Documentos/Programação/Macoratti - CleanArchitecture/00 - Projeto/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj"
+            "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
+              "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj"
             }
           }
         }

@@ -4,7 +4,7 @@ namespace CleanArchMvc.Domain.Interfaces;
 
 public interface ICategoryRepository
 {
-    Task<IEnumerable<Category>> GetCategoriesAsync();      //Operação assincrona (Task).
+    Task<IEnumerable<Category>> GetCategoriesAsync();   
 
     Task<Category> GetById(int id);
 

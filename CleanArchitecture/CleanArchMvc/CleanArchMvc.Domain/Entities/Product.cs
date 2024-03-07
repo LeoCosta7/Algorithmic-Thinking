@@ -11,16 +11,15 @@ public sealed class Product : BaseEntity
     public string Image { get; set; }
     
     
-    public int CategoryId { get; set; }                     //Definindo a chave estrangeira
-
-    public Category Category { get; set; }                  //Definindo o tipo a qual está relacionando
+    public int CategoryId { get; set; }                     
+    public Category Category { get; set; }                  
 
 
     public Product(string name, string description, decimal price, int stock, string image)
     {
-        bool isValid = CheckParameter(name, description, price, stock, image);          //Se forem validos, então...
+        bool isValid = CheckParameter(name, description, price, stock, image);          
         
-        if (isValid)                                                                    //...vamos criar um objeto para cada
+        if (isValid)                                                                    
         {
             Name = name;
             Description = description;
@@ -32,9 +31,9 @@ public sealed class Product : BaseEntity
     
     public void Update(string name, string description, decimal price, int stock, string image, int categoryId)
     {
-        bool isValid = CheckParameter(name, description, price, stock, image);          //Se forem validos, então...
+        bool isValid = CheckParameter(name, description, price, stock, image);         
         
-        if (isValid)                                                                    //...vamos criar um objeto para cada
+        if (isValid)                                                                   
         {
             Name = name;
             Description = description;

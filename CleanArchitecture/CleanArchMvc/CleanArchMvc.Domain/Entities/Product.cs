@@ -11,7 +11,7 @@ public sealed class Product : BaseEntity
     public string Image { get; set; }
     
     
-    public int CategoryId { get; set; }                     
+    public int CategoryId { get; set; }        //Chave estrangeira             
     public Category Category { get; set; }                  
 
 

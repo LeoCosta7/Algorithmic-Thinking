@@ -11,8 +11,8 @@ public class ProducConfiguration : IEntityTypeConfiguration<Product>
         builder.HasKey(x => x.Id);
         builder.Property(x => x.Name).HasMaxLength(100).IsRequired();
         builder.Property(x => x.Price).HasPrecision(10, 2);         //Decimal
-        builder.HasOne(x => x.Category)
-            .WithMany(k => k.Products)
-            .HasForeignKey(y => y.CategoryId);     
+        builder.HasOne(x => x.Category)             //Uma Categoria
+            .WithMany(k => k.Products)             //Com muitos produtos
+            .HasForeignKey(y => y.CategoryId);                      //Chave estrangeira
     }
 }

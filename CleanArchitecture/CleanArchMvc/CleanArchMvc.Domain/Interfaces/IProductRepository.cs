@@ -7,6 +7,8 @@ public interface IProductRepository
     Task<IEnumerable<Product>> GetProductsAsync();   
 
     Task<Product> GetById(int id);
+    
+    Task<Product> GetCategoryByProductId(int id);
 
     Task<Product> Create(Product category);
     

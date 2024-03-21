@@ -14,7 +14,7 @@ public class ApplicationDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
-        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
-        //modelBuilder.ApplyConfiguration(new CategoryConfiguration()); <-
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);   //Para poder usar arquivos separados que estão herdando a interface IEntityTypeConfiguration     
+        //modelBuilder.ApplyConfiguration(new CategoryConfiguration()); <- Caso n use a opção acima e queira declarar diretamente aqui
     }
 }

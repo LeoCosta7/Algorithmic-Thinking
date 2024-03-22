@@ -2969,32 +2969,34 @@
     ]
   },
   "packageFolders": {
-    "/home/l001011/.nuget/packages/": {}
+    "C:\\Users\\lcc77\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\Algorithmic-Thinking\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
       "projectName": "CleanArchMvc.Infra.Data",
-      "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
-      "packagesPath": "/home/l001011/.nuget/packages/",
-      "outputPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Infra.Data/obj/",
+      "projectPath": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\Algorithmic-Thinking\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\lcc77\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\Algorithmic-Thinking\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/l001011/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lcc77\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
-              "projectPath": "/home/l001011/Documentos/Algorithmic-Thinking/CleanArchitecture/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+            "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\Algorithmic-Thinking\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\Algorithmic-Thinking\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }
@@ -3003,6 +3005,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3037,12 +3044,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.116/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

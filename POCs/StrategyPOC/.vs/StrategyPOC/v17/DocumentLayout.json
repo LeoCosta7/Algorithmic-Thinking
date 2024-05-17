@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1066E72F-B728-4EB8-8884-7D9353B57096}|StrategyPOC\\StrategyPOC.csproj|c:\\users\\lcc77\\documents\\desenvolvimento\\pocs\\strategypoc\\strategypoc\\util\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1066E72F-B728-4EB8-8884-7D9353B57096}|StrategyPOC\\StrategyPOC.csproj|solutionrelative:strategypoc\\util\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1066E72F-B728-4EB8-8884-7D9353B57096}|StrategyPOC\\StrategyPOC.csproj|c:\\users\\lcc77\\documents\\desenvolvimento\\pocs\\strategypoc\\strategypoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1066E72F-B728-4EB8-8884-7D9353B57096}|StrategyPOC\\StrategyPOC.csproj|solutionrelative:strategypoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1066E72F-B728-4EB8-8884-7D9353B57096}|StrategyPOC\\StrategyPOC.csproj|c:\\users\\lcc77\\documents\\desenvolvimento\\pocs\\strategypoc\\strategypoc\\factory\\factoryinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1066E72F-B728-4EB8-8884-7D9353B57096}|StrategyPOC\\StrategyPOC.csproj|solutionrelative:strategypoc\\factory\\factoryinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyPOC\\Program.cs",
+              "ToolTip": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\Program.cs",
+              "RelativeToolTip": "StrategyPOC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:44:41.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\Util\\Utilities.cs",
+              "RelativeDocumentMoniker": "StrategyPOC\\Util\\Utilities.cs",
+              "ToolTip": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\Util\\Utilities.cs",
+              "RelativeToolTip": "StrategyPOC\\Util\\Utilities.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:22:42.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FactoryInstance.cs",
+              "DocumentMoniker": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\Factory\\FactoryInstance.cs",
+              "RelativeDocumentMoniker": "StrategyPOC\\Factory\\FactoryInstance.cs",
+              "ToolTip": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\Factory\\FactoryInstance.cs*",
+              "RelativeToolTip": "StrategyPOC\\Factory\\FactoryInstance.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:22:38.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

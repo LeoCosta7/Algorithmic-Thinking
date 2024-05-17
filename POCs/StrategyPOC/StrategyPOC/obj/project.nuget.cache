@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2zlusb+HI5Ao4RUD6oWoPGUL/OfXKCPirg+jb3I3IP13qljLJuuLrLcKywvZ3rbwMWbntmh2cfeakkOe+7Dyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcc77\\Documents\\Desenvolvimento\\POCs\\StrategyPOC\\StrategyPOC\\StrategyPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcc77\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\lcc77\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\lcc77\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
